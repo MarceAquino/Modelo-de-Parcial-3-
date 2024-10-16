@@ -9,7 +9,7 @@ El sistema permite realizar las siguientes acciones:
 - Calcular el costo de reparación basado en el tipo de vehículo y el tiempo de trabajo.
 - Gestionar el estado de los vehículos (disponible, en reparación).
 - Manejar excepciones para códigos de vehículos duplicados y estados inválidos.
-- 
+  
 ## 📄 Documentación
 
 Puedes ver la documentación en formato PDF haciendo clic en el siguiente enlace:
