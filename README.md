@@ -27,4 +27,4 @@ Puedes ver la documentación en formato PDF haciendo clic en el siguiente enlace
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/MarceAquino/Taller-Autos-Java.git
+   git clone https://github.com/MarceAquino/Taller-Autos-Java.git](https://github.com/MarceAquino/Modelo-de-Parcial-3-.git
